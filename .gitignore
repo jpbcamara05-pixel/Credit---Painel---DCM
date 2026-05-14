@@ -1,6 +1,3 @@
-# PDFs — documentos financeiros (623MB, não subir no GitHub)
-empresas/
-
 # Python virtual environment
 .venv/
 __pycache__/
