@@ -1,0 +1,19 @@
+# PDFs — documentos financeiros (623MB, não subir no GitHub)
+empresas/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+~$*.xlsx
+
+# Prompt (mantido local)
+Prompt/
